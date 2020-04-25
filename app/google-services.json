@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036299922768",
+    "firebase_url": "https://note-me-master-44ca8.firebaseio.com",
+    "project_id": "note-me-master-44ca8",
+    "storage_bucket": "note-me-master-44ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036299922768:android:673e3d8811edced4fe9055",
+        "android_client_info": {
+          "package_name": "com.yianEr.simpledatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036299922768-7ee2hrdo1f81og5pt24cb7vu6ibif6fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yianEr.simpledatabase",
+            "certificate_hash": "d34196117132764ff868890594cb67321ffe9f2e"
+          }
+        },
+        {
+          "client_id": "1036299922768-aimjckkt9tsk09mm8acfk80fedplkdj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUxjtixyCP_p7f4rzixqPj9HgJfIofQJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036299922768-aimjckkt9tsk09mm8acfk80fedplkdj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
